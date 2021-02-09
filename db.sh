@@ -6,3 +6,4 @@ Elvis
 Kezie
 Swiri
 Jonathan
+echo $?
